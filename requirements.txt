@@ -1,0 +1,9 @@
+streamlit
+pandas
+pydantic
+pypdf
+numpy
+matplotlib
+Pillow
+imageio
+imageio-ffmpeg
